@@ -72,9 +72,13 @@ li a:hover {
     float: left;
     position: relative;
 }
+#pfooter{
+
+    padding-top: 10px;
+}
 #footer{
-    padding-top: 50px;
-    height: 100px;
+    
+    height: 30px;
     background-color: grey;
     position: relative;
     align-content: center;
